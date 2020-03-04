@@ -1,0 +1,4 @@
+Things go quite well in this Practical. 
+However, there are still some problems occurred during the process. 
+The biggest problem is that I don't quite understand some of the functions of GitKraken.
+I would like to ask about the function of "open terminal" and how does this work.
