@@ -28,7 +28,7 @@ for i in range (2,j+1):
     if a[t] > 0:
         s=s+' + 2**'+str(t)
 print(s)
-
+#Comment: it realizes the aim and it is a quite clear code.
     
 
 
