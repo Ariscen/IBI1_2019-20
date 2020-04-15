@@ -1,0 +1,4 @@
+According to the result from the Alignment.py, the similarity ratio between the amino acid sequence of human and that of mouse is 89.64%.
+The similarity ratio between the amino acid sequence of mouse and a random sequence is 5.86%.
+The similarity ratio between the amino acid sequence of human and a random sequence is 5.41%.
+Human and mouse have a high similarity in their amino acid sequence.
