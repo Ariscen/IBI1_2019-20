@@ -1,0 +1,3 @@
+For n numbers, there are 6*n*(n-1)/2 possible sequences. 
+With this algorithm, the total time to operate all possiblities is  [6^(n-1)] * n*[(n-1)^2]*[(n-2)^2]*бнбн*1/[2^(n-1)] = 3^(n-1)*(n!)*((n-1)!)
+Therefore, the complexity of the algorithm is O( (n!)^2), which means the algorithm is really complicated.
