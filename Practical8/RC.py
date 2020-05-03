@@ -20,6 +20,7 @@ for i in range(0,s):
         c = 'G' +c
     else:
         print('it is not a DNA sequence')
+        break
 #To make sure the correctness of the result, use len(c)==s to confirm the result
 if len(c) == s:
     print(c)
