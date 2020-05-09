@@ -1,0 +1,4 @@
+In this practical, we simulated the propagation of a probable disease with several constants given.
+For me, finding errors of the code I wrote is the most difficult part, since there were some tiny problems, like the brackets missing, may result in big problems for the whole program.
+There is no denying that the last part of the practical, which is the spatial expression, is the most impressive for me, as the "animation" is really amazing.
+The most important thing in code I have learned after this practical is the use of two-dimensional arrays, while the most important thing for further study is the patience I have gained and improved through this practical.
