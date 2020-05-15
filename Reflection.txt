@@ -1,0 +1,5 @@
+During this course, I have gained a deeper understanding of version control, Unix-like system and how do they work.
+I have learnt and practiced how to use python to write some short programs, which are able to realize some simple functions.
+For the problems during some practicals, I have learnt to solve the problems with patience and my self-study on online references.
+Besides, learning to cooperate with other students is really beneficial for me to consolidate the knowledge and learn more perspectives to realize the same function.
+In conclusion, I think this course is really important for a beginner in programming, like me, and it helps me to step into the gate of Biomedical informatics with knowledge and practice.
