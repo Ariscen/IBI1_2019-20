@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May 12 15:21:43 2020
+Created on Wed May 13 10:21:55 2020
 
-@author: lenovo
+@author: jacka
 """
 # import necessary libraries
 import xml.dom.minidom
@@ -66,7 +66,7 @@ for i in ids:
         y = x[:]
     childnode.append (count)
 # put the data into excel
-xfile=pd.DataFrame({'id':ids,'name':names,'definition':definition,'childnodes':childnode})
+xfile=pd.DataFrame({'id':ids,'name':names,'definition':definitions,'childnodes':childnode})
 xfile.to_excel('Autophagosome.xlsx',
                sheet_name='Autophagosome',
                columns=['id','name','definition','childnodes'])
